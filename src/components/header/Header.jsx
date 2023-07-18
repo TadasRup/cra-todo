@@ -12,8 +12,8 @@ export function Header() {
                 </form>
             </div>
             <nav className={style.nav}>
-                <a className={style.active} href="/">Projects</a>
-                <a href="/">Settings</a>
+                <a className={style.active} href="/">Notice</a>
+                <a href="/">Help center</a>
                 <a href="/">Help</a>
             </nav>
             <div className={style.right}>
