@@ -8,6 +8,7 @@ body {
 }
 
 code {
+  min-height: 100vh;
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
